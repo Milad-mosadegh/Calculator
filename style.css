@@ -1,0 +1,30 @@
+body {
+            background: #333;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #in {
+            border: none;
+            color: aliceblue;
+            font-size: 40px;
+        }
+
+        input {
+            width: 70px;
+            height: 70px;
+            border: none;
+            text-align: center;
+        }
+
+        .round {
+            border-radius: 1000px;
+            font-size: 23px;
+        }
+
+        .orange {
+            background: orange;
+        }
